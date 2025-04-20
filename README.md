@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mutiurrahman03" target="blank"><img src="https://img.shields.io/twitter/follow/mutiurrahman03?logo=twitter&style=for-the-badge" alt="mutiurrahman03" /></a> </p>
 
-- 🔭 I’m currently working on **School System Management**
+- 🔭 I’m currently working on [School System Management](https://github.com/Mutiur03/school-server.git)
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Data Analysis**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Mutiur03](https://github.com/Mutiur03)
 
 - 📫 Reach me at **mutiur5bb@gmail.com**
 
