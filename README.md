@@ -2,11 +2,9 @@
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
 
+- 🔭 I’m currently working on AI Automation
 
-
-- 🔭 I’m currently working on [School System Management](https://github.com/Mutiur03/school-server.git)
-
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning SAAS Development
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mutiur03](https://github.com/Mutiur03)
 
