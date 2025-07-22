@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Machine Learning<br>🎯 Goals: Invent something that will define my legacy and sustain me for a lifetime.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Machine Learning<br>🎯 Goals: Invent something that will define my legacy and sustain me for a lifetime.</p>
 
 ###
 
