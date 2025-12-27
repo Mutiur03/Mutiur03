@@ -90,10 +90,12 @@
 
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mutiur03&show_icons=true&theme=github_dark" alt="stats graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mutiur03&show_icons=true&theme=github_dark&cache=0" alt="stats graph"  />
     <img width="12" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Mutiur03&show_icons=true&theme=github_dark" alt="languages graph"  />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Mutiur03&show_icons=true&theme=github_dark&layout=compact" alt="languages graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Mutiur03&show_icons=true&theme=github_dark&cache=0" alt="streak graph"  />
+      <img width="12" />
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Mutiur03&show_icons=true&theme=github_dark&layout=compact&cache=0" alt="languages graph"  />
 <!-- <img src="https://readme.mutiurrahman.com/api/generate?user=Mutiur03&theme=glass&cards=unified&layout=grid" alt="GitHub Stats" /> -->
 </div>
 
