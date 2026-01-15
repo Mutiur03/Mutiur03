@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 <p align="center">My name is Mutiur Rahman and I'm a Full stack Developer , from Bangladesh</p>
 <h2 align="left">About me</h2>
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning System Design<br>🎯 Goals: Invent something that will define my legacy and sustain me for a lifetime.</p>
+<!-- <p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning System Design<br>🎯 Goals: Invent something that will define my legacy and sustain me for a lifetime.</p> -->
 <h2 align="left">I code with</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
