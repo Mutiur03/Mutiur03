@@ -99,9 +99,9 @@
   <!-- <img src="https://icon-lib-nu.vercel.app/api/icons/sentry" height="40" alt="Sentry" /> -->
   <!-- <img src="https://icon-lib-nu.vercel.app/api/icons/prometheus" height="40" alt="Prometheus" /> -->
   <!-- <img src="https://icon-lib-nu.vercel.app/api/icons/grafana" height="40" alt="Grafana" /> -->
-  <img src="https://icon-lib-nu.vercel.app/api/icons/linux" height="40" alt="Linux" />
-  <img src="https://icon-lib-nu.vercel.app/api/icons/ubuntu" height="40" alt="Ubuntu" />
-  <img src="https://icon-lib-nu.vercel.app/api/icons/bash" height="40" alt="Bash" />
+  <img src="https://icon-lib-nu.vercel.app/api/icons/linux?v=2" height="40" alt="Linux" />
+  <img src="https://icon-lib-nu.vercel.app/api/icons/ubuntu?v=2" height="40" alt="Ubuntu" />
+  <img src="https://icon-lib-nu.vercel.app/api/icons/bash?v=2" height="40" alt="Bash" />
 </p>
 
 ### AI, Realtime & Platform Technologies
@@ -109,8 +109,8 @@
 <p align="left">
   <!-- <img src="https://icon-lib-nu.vercel.app/api/icons/openai" height="40" alt="OpenAI" /> -->
   <img src="https://icon-lib-nu.vercel.app/api/icons/langchain" height="40" alt="LangChain" />
-  <img src="https://icon-lib-nu.vercel.app/api/icons/langgraph" height="40" alt="LangGraph" />
-  <img src="https://icon-lib-nu.vercel.app/api/icons/clerk" height="40" alt="Clerk" />
+  <img src="https://icon-lib-nu.vercel.app/api/icons/langgraph?v=2" height="40" alt="LangGraph" />
+  <img src="https://icon-lib-nu.vercel.app/api/icons/clerk?v=2" height="40" alt="Clerk" />
   <img src="https://icon-lib-nu.vercel.app/api/icons/stripe" height="40" alt="Stripe" />
   <img src="https://icon-lib-nu.vercel.app/api/icons/socket-io" height="40" alt="Socket.IO" />
   <!-- <img src="https://icon-lib-nu.vercel.app/api/icons/kafka" height="40" alt="Kafka" /> -->
