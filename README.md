@@ -88,7 +88,7 @@
   <!-- <img src="https://icon-lib-nu.vercel.app/api/icons/azure" height="40" alt="Microsoft Azure" /> -->
 </p>
 
-### Tools & Monitoring
+### Tools
 
 <p align="left">
   <img src="https://icon-lib-nu.vercel.app/api/icons/git" height="40" alt="Git" />
@@ -96,6 +96,7 @@
   <!-- <img src="https://icon-lib-nu.vercel.app/api/icons/gitlab" height="40" alt="GitLab" /> -->
   <img src="https://icon-lib-nu.vercel.app/api/icons/postman" height="40" alt="Postman" />
   <img src="https://icon-lib-nu.vercel.app/api/icons/prisma" height="40" alt="Prisma" />
+  <img src="https://icon-lib-nu.vercel.app/api/icons/rabbitmq" height="40" alt="RabbitMQ" />
   <!-- <img src="https://icon-lib-nu.vercel.app/api/icons/sentry" height="40" alt="Sentry" /> -->
   <!-- <img src="https://icon-lib-nu.vercel.app/api/icons/prometheus" height="40" alt="Prometheus" /> -->
   <!-- <img src="https://icon-lib-nu.vercel.app/api/icons/grafana" height="40" alt="Grafana" /> -->
@@ -104,7 +105,7 @@
   <img src="https://icon-lib-nu.vercel.app/api/icons/bash?v=2" height="40" alt="Bash" />
 </p>
 
-### AI, Realtime & Platform Technologies
+### Platform Technologies
 
 <p align="left">
   <!-- <img src="https://icon-lib-nu.vercel.app/api/icons/openai" height="40" alt="OpenAI" /> -->
@@ -114,7 +115,6 @@
   <img src="https://icon-lib-nu.vercel.app/api/icons/stripe" height="40" alt="Stripe" />
   <img src="https://icon-lib-nu.vercel.app/api/icons/socket-io" height="40" alt="Socket.IO" />
   <!-- <img src="https://icon-lib-nu.vercel.app/api/icons/kafka" height="40" alt="Kafka" /> -->
-  <img src="https://icon-lib-nu.vercel.app/api/icons/rabbitmq" height="40" alt="RabbitMQ" />
   <!-- <img src="https://icon-lib-nu.vercel.app/api/icons/jest" height="40" alt="Jest" /> -->
 </p>
 
